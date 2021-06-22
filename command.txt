@@ -1,6 +1,0 @@
-git add .
-or particular file name(orm-learn)
-git commit -m "message"
-git push -u origin master//
-git push origin HEAD:main
-
